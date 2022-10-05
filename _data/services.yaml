@@ -8,3 +8,9 @@ services:
   - name: DevOps
     icon: fa-rocket
     text: Velocity, velocity, velocity. Our DevOps will implement popular open-source technology to reduce overhead and increase velocity of your delivery.
+  - name: Content Management Solutions
+    icon: fa-window-restore
+    text: Enable marketing teams to focus on improving views and increase targeting. Transform your presence by implmenting Wordpress, Contentful, AEM.
+  - name: Web3 Development
+    icon: fa-bitcoin
+    text: Transform your business and step into world of Web3. We are here to implement and set you up for success in web3.
