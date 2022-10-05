@@ -14,7 +14,7 @@ aboutus:
 # Team names, titles and social links
 people:
 - name: Archana Venkatram
-  pic: 1
+  pic: av
   position: VP, Program Management Practice
   social:
     - title: twitter
@@ -25,7 +25,7 @@ people:
       url: #
 
 - name: Mithun Sharma
-  pic: 2
+  pic: mg
   position: CEO
   social:
     - title: twitter
@@ -41,12 +41,8 @@ social:
     url: http://twitter.com/jekyllrb
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/sagdigi
 
 # Postal address (add as many lines as necessary)
 address:
