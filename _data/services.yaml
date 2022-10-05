@@ -1,3 +1,10 @@
 services:
   header: Services
   sub-header: Agility, adaptability and velocity are the drivers that enable a culture of digital transformation. As your end-to-end provider, we’ll work with you to optimize your messaging across all channels, providing a seamless experience for your customers and measurable ROI for your business.
+  list:
+  - name: Project Management
+    icon: fa-gears
+    text: Agile project management practice that will enable continous delivery and continous improvements
+  - name: DevOps
+    icon: fa-rocket
+    text: Velocity, velocity, velocity. Our DevOps will implement popular open-source technology to reduce overhead and increase velocity of your delivery.
